@@ -91,6 +91,10 @@ Each major service category (Insurance, Loans, Money Transfers, Recharge & Bills
 
 This helps cross-functional teams optimize offerings and personalize product strategies.
 
+## Dashboard Preview
+<img width="1200" height="600" alt="Screenshot 2026-02-25 232455" src="https://github.com/user-attachments/assets/055117f9-954b-4776-b6b8-7b9df813217b" />
+
+
 ## Suitable For
 
 This dashboard is ideal for:
