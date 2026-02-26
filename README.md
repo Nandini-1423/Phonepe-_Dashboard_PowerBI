@@ -52,13 +52,6 @@ This dashboard addresses these challenges by providing a centralized, interactiv
 
 - Data Modeling (Star Schema)
 
-## Dashboard Preview
-
-
-<img width="1366" height="768" alt="Screenshot 2026-02-25 224502" src="https://github.com/user-attachments/assets/27ef4aa0-7235-4c4a-bc03-46cef39607d3" />
-
-
-
 ## Core Business Insights
 1. High-Level Transaction Analytics
 
